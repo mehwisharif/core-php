@@ -1,0 +1,101 @@
+.main-container{
+			width: 1340px;
+			height: auto;
+		}
+		.header{
+			width: 1340px;
+			height: 100px;
+			background: black;
+		
+		}
+		.logo{
+			width: 200px;
+			height: 100px;
+			float: left;
+		}
+		.menu{
+			width: 1140px;
+			height: 100px;
+			padding-top: 30px;
+			font-size: 22px;
+		}
+		.menu ul{
+			list-style: none;
+			float: right;
+
+		}
+		.menu ul li{
+			display: inline;
+			margin: 10px;
+
+		}
+		.menu ul li a{
+			text-decoration: none;
+			color: white;
+
+		}
+		.menu a:hover{
+			background: black;
+			color: white;
+		}
+		.content-area{
+			width: 1340px;
+			height: auto;
+			background: white;
+		}
+		.image{
+	height: 0px;
+	padding-top: 90px;
+	padding-left: 46px;
+}
+       .image img{
+	padding-top: 42px;
+	width: 218px;
+	height: 140px;
+}
+.mainhead{
+	float: left;
+}
+.post.title {
+	text-align: center;
+	font-size: 30px;
+	padding-left: 253px;
+}
+.post.title a {
+	text-decoration: none;
+	color: black;
+}
+.post.title a:hover{
+	color: red;
+}
+   .p{
+	padding-left: 437px;
+	padding-right: 184px;
+		}
+	.p a{
+		color: red;
+	}
+		.form{
+
+	text-align: center;
+}
+.text-area{
+			text-align: center;
+			padding-top: 100px;
+		}
+
+.heading{
+			text-align:center;
+			padding-top: 30px;
+			padding-right: 810px;
+			font-size: 25px;
+		}
+
+		.footer{
+			width: 1340px;
+			height: 100px;
+			background: black;
+			text-align: center;
+			font-size: 30px;
+			color: white;
+		}
